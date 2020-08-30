@@ -1,4 +1,3 @@
-# useful_data
 # Data mappers for speed and glory.
 
 ### us_city_to_state.json
